@@ -1,0 +1,11 @@
+# Node files
+/node_modules
+
+# Built files
+/dist
+
+# Test files
+/coverage
+
+# OS files
+.DS_Store
