@@ -1,4 +1,4 @@
-import { UserInput } from "./input";
+import { UserInput } from './input';
 import { IUser } from './output';
 import { parseISO, isValid, isPast, differenceInYears } from 'date-fns';
 
