@@ -4,6 +4,10 @@
 # Built files
 /dist
 
+# IDE
+.idea
+.vscode
+
 # Test files
 /coverage
 
